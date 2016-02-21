@@ -23,7 +23,7 @@
     "grunt-release": "^0.12.0"
   },
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": ">=0.4.0"
   },
   "license": "MIT",
   "bugs": {
